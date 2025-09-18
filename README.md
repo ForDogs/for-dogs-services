@@ -23,11 +23,11 @@ PW : test001!!@@
 ## 🔨 사용 기술
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/TypeScript-orange?style=flat&logo=TypeScript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=flat&logo=TailWind css&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/React-Query-ffffff?style=flat&logo=React-Query&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/React-Router-000000?style=flat&logo=React-Router&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/vite-9400D3?style=flat&logo=vite&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/API-0000FF?style=flat&logo=백엔드 API&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Backend%20API-0000FF?style=flat&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=ffffff"/>
 
 ### 아키텍처
